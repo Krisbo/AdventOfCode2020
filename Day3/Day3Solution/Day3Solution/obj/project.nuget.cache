@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Lw7jJf/kgd49ba0fr72PEjhlVjUGQY1mvIdYoBPuJtzwiyvx+4Co924Hr4B34LfHMORD5YG0GqAuONhGz8mdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kristoffer.boe\\krisbo_git\\AdventOfCode2020\\Day3\\Day3Solution\\Day3Solution\\Day3Solution.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kristoffer.boe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\kristoffer.boe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
