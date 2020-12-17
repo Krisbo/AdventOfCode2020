@@ -1,0 +1,13 @@
+C:\Users\kristoffer.boe\krisbo_git\AdventOfCode2020\Day4\Day4Solution\Day4Solution\bin\Debug\netcoreapp3.1\Day4Solution.exe
+C:\Users\kristoffer.boe\krisbo_git\AdventOfCode2020\Day4\Day4Solution\Day4Solution\bin\Debug\netcoreapp3.1\Day4Solution.deps.json
+C:\Users\kristoffer.boe\krisbo_git\AdventOfCode2020\Day4\Day4Solution\Day4Solution\bin\Debug\netcoreapp3.1\Day4Solution.runtimeconfig.json
+C:\Users\kristoffer.boe\krisbo_git\AdventOfCode2020\Day4\Day4Solution\Day4Solution\bin\Debug\netcoreapp3.1\Day4Solution.runtimeconfig.dev.json
+C:\Users\kristoffer.boe\krisbo_git\AdventOfCode2020\Day4\Day4Solution\Day4Solution\bin\Debug\netcoreapp3.1\Day4Solution.dll
+C:\Users\kristoffer.boe\krisbo_git\AdventOfCode2020\Day4\Day4Solution\Day4Solution\bin\Debug\netcoreapp3.1\Day4Solution.pdb
+C:\Users\kristoffer.boe\krisbo_git\AdventOfCode2020\Day4\Day4Solution\Day4Solution\obj\Debug\netcoreapp3.1\Day4Solution.csprojAssemblyReference.cache
+C:\Users\kristoffer.boe\krisbo_git\AdventOfCode2020\Day4\Day4Solution\Day4Solution\obj\Debug\netcoreapp3.1\Day4Solution.AssemblyInfoInputs.cache
+C:\Users\kristoffer.boe\krisbo_git\AdventOfCode2020\Day4\Day4Solution\Day4Solution\obj\Debug\netcoreapp3.1\Day4Solution.AssemblyInfo.cs
+C:\Users\kristoffer.boe\krisbo_git\AdventOfCode2020\Day4\Day4Solution\Day4Solution\obj\Debug\netcoreapp3.1\Day4Solution.csproj.CoreCompileInputs.cache
+C:\Users\kristoffer.boe\krisbo_git\AdventOfCode2020\Day4\Day4Solution\Day4Solution\obj\Debug\netcoreapp3.1\Day4Solution.dll
+C:\Users\kristoffer.boe\krisbo_git\AdventOfCode2020\Day4\Day4Solution\Day4Solution\obj\Debug\netcoreapp3.1\Day4Solution.pdb
+C:\Users\kristoffer.boe\krisbo_git\AdventOfCode2020\Day4\Day4Solution\Day4Solution\obj\Debug\netcoreapp3.1\Day4Solution.genruntimeconfig.cache
